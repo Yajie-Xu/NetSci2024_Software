@@ -7,36 +7,36 @@ Website Link: https://netsci.nascol.net/school
 School / Workshop
 Tutorial on cross-package network analysis in Python using [igraph](https://python.igraph.org/en/stable/), [NetworkX](https://networkx.org/) and [graph-tool](https://graph-tool.skewed.de/).
 
-Time and place
+## Time and place
 Location: room 2104AB
 
 Time: 14:30 to 18:00 with a coffee break between 16:00–16:30.
 
-Instructors:
+## Instructors:
 - [Tamás Nepusz](https://github.com/ntamas/) (igraph)
 - [Tiago Peixoto](https://skewed.de/tiago/) (graph-tool)
 - [Matt Schwennesen](https://www.schwennesen.org/) (NetworkX)
 
-Content
+## Content
 The workshop will be roughly broken up into three parts, one for each library.
 
-NetworkX
+### NetworkX
 Time: 14:30 – 15:30
 
 NetworkX is a pure-python library for network analysis which aims to be both easy to install and easy to use while also being feature rich. Currently the library features around 400 network analysis algorithms ranging from classics like shortest path and spanning trees to approximate algorithms for problems like graph isomorphism and the traveling salesperson problem. With the recent addition of a backend system, NetworkX is now capable of utilizing faster implementations of supported algorithms from other graph analysis libraries like [Python GraphBLAS Algorithms](https://github.com/python-graphblas/graphblas-algorithms) and [CuGraph](https://github.com/rapidsai/cugraph/tree/branch-24.04/python/nx-cugraph). In this workshop, we’ll cover how to get started with NetworkX as well as topics like graph visualization, some classical algorithms, graph input/output, a network analysis case study and finally the new dispatching system.
 
 Tutorial material can be found [here](https://colab.research.google.com/drive/1NPAvlqeWzehb337kp4EHuleQ6b11HzuL?usp=sharing).
 
-graph-tool
+### graph-tool
 Time: 15:30 to 17:00, with coffee break between 16:00 – 16:30
 
-In this interactive workshop we will briefly cover the basic and some of the more advanced functionalities of the graph-tool library. After an introduction, participants will be given some hands-on exercises, which will be discussed during the session.
+> In this interactive workshop we will briefly cover the basic and some of the more advanced functionalities of the graph-tool library. After an introduction, participants will be given some hands-on exercises, which will be discussed during the session.
 
-To participate in the interactive session, please create an account at:
+> To participate in the interactive session, please create an account at:
 
-https://hub.skewed.de
+> https://hub.skewed.de
 
-and open the notebook from here.
+> and open the notebook from here.
 
 Graph-tool is an efficient Python module for manipulation and statistical analysis of graphs and networks.
 
@@ -64,10 +64,10 @@ Integration with the Netzschleuder network data repository, enabling easy loadin
 
 Support for writing custom C++ extensions.
 
-igraph
+## igraph
 Time: 17:00 – 18:00
 
-An IPython notebook containing the material of the tutorial is available on Google Colab here. You can also download a copy of the notebook here. The Zachary karate club network used in the tutorial is available here.
+> An IPython notebook containing the material of the tutorial is available on Google Colab here. You can also download a copy of the notebook here. The Zachary karate club network used in the tutorial is available here.
 
 igraph is a high-performance general-purpose library for complex network analysis, designed to be used from high-level languages like R, Python and Mathematica. The core library and data structures are implemented in C and C++, making it suitable for the analysis of large networks consisting of millions of vertices and even billions of edges given enough RAM.
 
