@@ -23,9 +23,9 @@ The workshop will be roughly broken up into three parts, one for each library.
 NetworkX
 Time: 14:30 – 15:30
 
-NetworkX is a pure-python library for network analysis which aims to be both easy to install and easy to use while also being feature rich. Currently the library features around 400 network analysis algorithms ranging from classics like shortest path and spanning trees to approximate algorithms for problems like graph isomorphism and the traveling salesperson problem. With the recent addition of a backend system, NetworkX is now capable of utilizing faster implementations of supported algorithms from other graph analysis libraries like Python GraphBLAS Algorithms and CuGraph. In this workshop, we’ll cover how to get started with NetworkX as well as topics like graph visualization, some classical algorithms, graph input/output, a network analysis case study and finally the new dispatching system.
+NetworkX is a pure-python library for network analysis which aims to be both easy to install and easy to use while also being feature rich. Currently the library features around 400 network analysis algorithms ranging from classics like shortest path and spanning trees to approximate algorithms for problems like graph isomorphism and the traveling salesperson problem. With the recent addition of a backend system, NetworkX is now capable of utilizing faster implementations of supported algorithms from other graph analysis libraries like [Python GraphBLAS Algorithms](https://github.com/python-graphblas/graphblas-algorithms) and [CuGraph](https://github.com/rapidsai/cugraph/tree/branch-24.04/python/nx-cugraph). In this workshop, we’ll cover how to get started with NetworkX as well as topics like graph visualization, some classical algorithms, graph input/output, a network analysis case study and finally the new dispatching system.
 
-Tutorial material can be found here.
+Tutorial material can be found [here](https://colab.research.google.com/drive/1NPAvlqeWzehb337kp4EHuleQ6b11HzuL?usp=sharing).
 
 graph-tool
 Time: 15:30 to 17:00, with coffee break between 16:00 – 16:30
