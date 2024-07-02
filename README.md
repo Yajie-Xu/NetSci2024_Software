@@ -1,6 +1,6 @@
 # Software Tools for Network Science
-A NetSci 2024 Satellite Workshop
-18 June 2024, Québec City, Canada
+A NetSci 2024 Satellite Workshop <br>
+18 June 2024, Québec City, Canada <br>
 
 Website Link: https://netsci.nascol.net/school
 
@@ -14,8 +14,8 @@ Time: 14:30 to 18:00 with a coffee break between 16:00–16:30.
 
 Instructors:
 [Tamás Nepusz](https://github.com/ntamas/)
-Tiago Peixoto
-Matt Schwennesen
+[Tiago Peixoto](https://skewed.de/tiago/)
+[Matt Schwennesen](https://www.schwennesen.org/)
 Content
 The workshop will be roughly broken up into three parts, one for each library.
 
