@@ -32,11 +32,7 @@ Time: 15:30 to 17:00, with coffee break between 16:00 – 16:30
 
 > In this interactive workshop we will briefly cover the basic and some of the more advanced functionalities of the graph-tool library. After an introduction, participants will be given some hands-on exercises, which will be discussed during the session.
 >
-> To participate in the interactive session, please create an account at:
->
-> https://hub.skewed.de
->
-> and open the notebook from [here](https://hub.skewed.de/hub/login?next=%2Fhub%2Fuser-redirect%2Fgit-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fcount0%252Fgt-nascol%26urlpath%3Dlab%252Ftree%252Fgt-nascol%252Fgt-workshop.ipynb%26branch%3Dmaster).
+> To participate in the interactive session, please create an account at: https://hub.skewed.de, and open the notebook from [here](https://hub.skewed.de/hub/login?next=%2Fhub%2Fuser-redirect%2Fgit-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fcount0%252Fgt-nascol%26urlpath%3Dlab%252Ftree%252Fgt-nascol%252Fgt-workshop.ipynb%26branch%3Dmaster).
 
 Graph-tool is an efficient Python module for manipulation and statistical analysis of graphs and networks.
 
