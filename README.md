@@ -5,7 +5,7 @@ A NetSci 2024 Satellite Workshop <br>
 Website Link: https://netsci.nascol.net/school
 
 School / Workshop
-Tutorial on cross-package network analysis in Python using igraph, NetworkX and graph-tool.
+Tutorial on cross-package network analysis in Python using [igraph](https://python.igraph.org/en/stable/), [NetworkX](https://networkx.org/) and [graph-tool](https://graph-tool.skewed.de/).
 
 Time and place
 Location: room 2104AB
@@ -13,9 +13,9 @@ Location: room 2104AB
 Time: 14:30 to 18:00 with a coffee break between 16:00–16:30.
 
 Instructors:
-- [Tamás Nepusz](https://github.com/ntamas/)
-- [Tiago Peixoto](https://skewed.de/tiago/)
-- [Matt Schwennesen](https://www.schwennesen.org/)
+- [Tamás Nepusz](https://github.com/ntamas/) (igraph)
+- [Tiago Peixoto](https://skewed.de/tiago/) (graph-tool)
+- [Matt Schwennesen](https://www.schwennesen.org/) (NetworkX)
 
 Content
 The workshop will be roughly broken up into three parts, one for each library.
