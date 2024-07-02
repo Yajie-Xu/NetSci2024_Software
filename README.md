@@ -60,7 +60,7 @@ Integration with the Netzschleuder network data repository, enabling easy loadin
 
 Support for writing custom C++ extensions.
 
-## igraph
+### igraph
 Time: 17:00 – 18:00
 
 > An IPython notebook containing the material of the tutorial is available on Google Colab here. You can also download a copy of the notebook here. The Zachary karate club network used in the tutorial is available here.
