@@ -12,10 +12,10 @@ Location: room 2104AB
 
 Time: 14:30 to 18:00 with a coffee break between 16:00–16:30.
 
-Instructors:
-[Tamás Nepusz](https://github.com/ntamas/)
-[Tiago Peixoto](https://skewed.de/tiago/)
-[Matt Schwennesen](https://www.schwennesen.org/)
+Instructors: <br>
+<li> [Tamás Nepusz](https://github.com/ntamas/)</li>
+<li> [Tiago Peixoto](https://skewed.de/tiago/) </li>
+<li> [Matt Schwennesen](https://www.schwennesen.org/) </li>
 Content
 The workshop will be roughly broken up into three parts, one for each library.
 
