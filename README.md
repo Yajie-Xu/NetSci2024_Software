@@ -36,29 +36,29 @@ Time: 15:30 to 17:00, with coffee break between 16:00 – 16:30
 
 [Graph-tool](https://graph-tool.skewed.de) is an efficient [Python](https://www.python.org) module for manipulation and statistical analysis of [graphs](https://en.wikipedia.org/wiki/Graph#Mathematics) and [networks](https://en.wikipedia.org/wiki/Network_theory).
 
-The core data structures and algorithms are implemented in C++, making extensive use of template metaprogramming, based heavily on the Boost Graph Library. This confers it a level of performance that is comparable (both in memory usage and computation time) to that of a pure C/C++ library.
+The core data structures and algorithms are implemented in [C++](https://en.wikipedia.org/wiki/C%2B%2B), making extensive use of [template metaprogramming](https://en.wikipedia.org/wiki/Template_metaprogramming), based heavily on the [Boost Graph Library](https://www.boost.org/doc/libs/1_85_0/libs/graph/doc/index.html). This confers it a level of performance that is comparable (both in memory usage and computation time) to that of a pure C/C++ library.
 
-graph-tool can be orders of magnitude faster than pure Python alternatives, and therefore it is specially suited for large-scale network analysis.
+`graph-tool` can be orders of magnitude faster than pure Python alternatives, and therefore it is specially suited for large-scale network analysis.
 
-Some of the unique functionalities of graph-tool include:
+Some of the unique functionalities of `graph-tool` include:
 
-Comprehensive framework for inferential community detection, build upon statistically principled approaches that avoid overfitting and are interpretable.
+1. Comprehensive framework for [inferential community detection](https://graph-tool.skewed.de/static/doc/demos/inference/inference.html#inference-howto), build upon statistically principled approaches that avoid overfitting and are interpretable.
 
-Support for network reconstruction from dynamics.
+2. Support for [network reconstruction from dynamics](https://graph-tool.skewed.de/static/doc/demos/reconstruction_indirect/reconstruction.html).
 
-Support for uncertainty quantification in network data.
+3. Support for [uncertainty quantification](https://graph-tool.skewed.de/static/doc/demos/reconstruction_direct/reconstruction.html) in network data.
 
-Support for OpenMP shared memory parallelism for several algorithms.
+4. Support for [OpenMP](https://en.wikipedia.org/wiki/OpenMP) shared memory [parallelism](https://graph-tool.skewed.de/static/doc/parallel.html) for several algorithms.
 
-High-quality network visualization, both static and interactive, supporting animations and matplotlib integration.
+5. High-quality [network visualization](https://graph-tool.skewed.de/static/doc/draw.html#draw), both static and interactive, supporting [animations](https://graph-tool.skewed.de/static/doc/demos/animation/animation.html#animation) and [matplotlib integration](https://graph-tool.skewed.de/static/doc/demos/matplotlib/matplotlib.html#matplotlib-sec).
 
-Filtered graphs, i.e. graphs where nodes and edges are temporarily masked. These are first class citizens in the library, and are accepted by every function. Due to the use of C++ template metaprogramming, this functionality comes at no performance cost when filtering is not being used.
+6. [Filtered graphs](https://graph-tool.skewed.de/static/doc/quickstart.html#sec-graph-filtering), i.e. graphs where nodes and edges are temporarily masked. These are first class citizens in the library, and are accepted by every function. Due to the use of C++ template metaprogramming, this functionality comes at no performance cost when filtering is not being used.
 
-Efficient and fully documented binary format for network files.
+7. Efficient and fully documented [binary format](https://graph-tool.skewed.de/static/doc/gt_format.html#sec-gt-format) for network files.
 
-Integration with the Netzschleuder network data repository, enabling easy loading of network data.
+8. Integration with the [Netzschleuder](https://networks.skewed.de/) network data repository, enabling [easy loading](https://graph-tool.skewed.de/static/doc/collection.html#graph_tool.collection.ns) of network data.
 
-Support for writing custom C++ extensions.
+10. Support for writing custom [C++ extensions](https://graph-tool.skewed.de/static/doc/demos/cppextensions/cppextensions.html#cppextensions).
 
 ### igraph
 Time: 17:00 – 18:00
